@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/refined-portfolio/static/css/main.353bfdd7.css",
+    "main.js": "/refined-portfolio/static/js/main.7755ff0f.js",
+    "static/media/demo.png": "/refined-portfolio/static/media/demo.512e1d0dc70e7c815361.png",
+    "static/media/space-travelers.png": "/refined-portfolio/static/media/space-travelers.05fa953fe03abf81ddfc.png",
+    "static/media/todo.png": "/refined-portfolio/static/media/todo.2378b6267553df1015cb.png",
+    "static/media/car-hub.png": "/refined-portfolio/static/media/car-hub.a8a154c5016db323d387.png",
+    "static/media/headline-shapes.svg": "/refined-portfolio/static/media/headline-shapes.adc4f80332c1e8bf847f4dd5c3fd5781.svg",
+    "static/media/contact-shapes.svg": "/refined-portfolio/static/media/contact-shapes.8c102b13ef3108ecdc80a5724e758273.svg",
+    "index.html": "/refined-portfolio/index.html",
+    "main.353bfdd7.css.map": "/refined-portfolio/static/css/main.353bfdd7.css.map",
+    "main.7755ff0f.js.map": "/refined-portfolio/static/js/main.7755ff0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.353bfdd7.css",
+    "static/js/main.7755ff0f.js"
+  ]
+}
