@@ -16,7 +16,7 @@
     "styled-components": "^5.3.11",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Salimer.github.io/Portfolio",
+  "homepage": "https://musangamfure.github.io/refined-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
